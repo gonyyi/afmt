@@ -6,7 +6,7 @@
 
 ## Intro
 
-afmt is a library for string formats with a goal of zero allocation.
+afmt is a library for string formats.
 
 
 ---
